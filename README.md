@@ -5,7 +5,7 @@
 * GEM Database Graphical user interface
 * Version: Dev 0.1
 * Technologies: PHP5, Ajax, javascript, HTML, CSS.
-* Author: Ola Aboamer
+* Author: Mohammad Hasbuddin
 
 This GUI is to automate the process of loading GEM construction data into database.
 Data producers can do the following through it:
